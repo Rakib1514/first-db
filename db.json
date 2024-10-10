@@ -1,6 +1,5 @@
 {
-  "status": true,
-  "message": "successfully fetched all the pets data",
+  
   "pets": [
     {
       "petId": 1,
