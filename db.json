@@ -1,1 +1,155 @@
-{"friend":[{"name":"Ahad","age":34,"wife":"wife"},{"name":"Rasel","age":23,"wife":"wife"},{"name":"Shimul","age":24,"wife":"wife"},{"name":"Rezvi","age":14,"wife":"wife"},{"name":"Moidul","age":47,"wife":"wife"},{"name":"Hanjala","age":23,"wife":"wife"},{"name":"Ahmadullah","age":31,"wife":"wife"},{"name":"Munsur","age":32,"wife":"wife"},{"name":"Rakib","age":27,"wife":"wife"},{"name":"Sony","age":31,"wife":"wife"},{"name":"Nahid","age":38,"wife":"wife"},{"name":"Azizul","age":45,"wife":"wife"}]}
+{
+    "bangladesh": [
+        
+    {
+        "Rajshahi": {
+            "Bogra": {
+                "id": "RAJ-BOG",
+                "subdistrict": [
+                    {"name": "Bogra Sadar", "id": "RAJ-BOG-01"},
+                    {"name": "Kahalu", "id": "RAJ-BOG-02"},
+                    {"name": "Shibganj", "id": "RAJ-BOG-03"},
+                    {"name": "Gabtali", "id": "RAJ-BOG-04"},
+                    {"name": "Sherpur", "id": "RAJ-BOG-05"},
+                    {"name": "Dupchanchia", "id": "RAJ-BOG-06"},
+                    {"name": "Nandigram", "id": "RAJ-BOG-07"},
+                    {"name": "Adamdighi", "id": "RAJ-BOG-08"},
+                    {"name": "Sariakandi", "id": "RAJ-BOG-09"},
+                    {"name": "Dhunat", "id": "RAJ-BOG-10"},
+                    {"name": "Sonatala", "id": "RAJ-BOG-11"}
+                ]
+            },
+            "Natore": {
+                "id": "RAJ-NAT",
+                "subdistrict": [
+                    {"name": "Natore Sadar", "id": "RAJ-NAT-01"},
+                    {"name": "Singra", "id": "RAJ-NAT-02"},
+                    {"name": "Baraigram", "id": "RAJ-NAT-03"},
+                    {"name": "Bagatipara", "id": "RAJ-NAT-04"},
+                    {"name": "Lalpur", "id": "RAJ-NAT-05"},
+                    {"name": "Gurudaspur", "id": "RAJ-NAT-06"}
+                ]
+            },
+            "Rajshahi": {
+                "id": "RAJ-RAJ",
+                "subdistrict": [
+                    {"name": "Rajshahi Sadar", "id": "RAJ-RAJ-01"},
+                    {"name": "Paba", "id": "RAJ-RAJ-02"},
+                    {"name": "Bagha", "id": "RAJ-RAJ-03"},
+                    {"name": "Durgapur", "id": "RAJ-RAJ-04"},
+                    {"name": "Godagari", "id": "RAJ-RAJ-05"},
+                    {"name": "Mohanpur", "id": "RAJ-RAJ-06"},
+                    {"name": "Puthia", "id": "RAJ-RAJ-07"},
+                    {"name": "Charghat", "id": "RAJ-RAJ-08"}
+                ]
+            }
+        }
+    },
+    {
+        "Khulna": {
+            "Khulna": {
+                "id": "KHU-KHU",
+                "subdistrict": [
+                    {"name": "Khulna Sadar", "id": "KHU-KHU-01"},
+                    {"name": "Dumuria", "id": "KHU-KHU-02"},
+                    {"name": "Dacope", "id": "KHU-KHU-03"},
+                    {"name": "Batiaghata", "id": "KHU-KHU-04"},
+                    {"name": "Paikgachha", "id": "KHU-KHU-05"},
+                    {"name": "Koyra", "id": "KHU-KHU-06"},
+                    {"name": "Terokhada", "id": "KHU-KHU-07"},
+                    {"name": "Phultala", "id": "KHU-KHU-08"},
+                    {"name": "Rupsha", "id": "KHU-KHU-09"}
+                ]
+            },
+            "Jessore": {
+                "id": "KHU-JES",
+                "subdistrict": [
+                    {"name": "Jessore Sadar", "id": "KHU-JES-01"},
+                    {"name": "Bagherpara", "id": "KHU-JES-02"},
+                    {"name": "Chaugachha", "id": "KHU-JES-03"},
+                    {"name": "Jhikargachha", "id": "KHU-JES-04"},
+                    {"name": "Keshabpur", "id": "KHU-JES-05"},
+                    {"name": "Manirampur", "id": "KHU-JES-06"},
+                    {"name": "Sharsha", "id": "KHU-JES-07"},
+                    {"name": "Abhaynagar", "id": "KHU-JES-08"}
+                ]
+            },
+            "Bagerhat": {
+                "id": "KHU-BAG",
+                "subdistrict": [
+                    {"name": "Bagerhat Sadar", "id": "KHU-BAG-01"},
+                    {"name": "Chitalmari", "id": "KHU-BAG-02"},
+                    {"name": "Mollahat", "id": "KHU-BAG-03"},
+                    {"name": "Rampal", "id": "KHU-BAG-04"},
+                    {"name": "Mongla", "id": "KHU-BAG-05"},
+                    {"name": "Morrelganj", "id": "KHU-BAG-06"},
+                    {"name": "Kachua", "id": "KHU-BAG-07"},
+                    {"name": "Sarankhola", "id": "KHU-BAG-08"}
+                ]
+            }
+        }
+    },
+    {
+        "Dhaka": {
+            "Dhaka": {
+                "id": "DHA-DHA",
+                "subdistrict": [
+                    {"name": "Dhamrai", "id": "DHA-DHA-01"},
+                    {"name": "Dohar", "id": "DHA-DHA-02"},
+                    {"name": "Keraniganj", "id": "DHA-DHA-03"},
+                    {"name": "Nawabganj", "id": "DHA-DHA-04"},
+                    {"name": "Savar", "id": "DHA-DHA-05"}
+                ]
+            },
+            "Faridpur": {
+                "id": "DHA-FAR",
+                "subdistrict": [
+                    {"name": "Faridpur Sadar", "id": "DHA-FAR-01"},
+                    {"name": "Alfadanga", "id": "DHA-FAR-02"},
+                    {"name": "Bhanga", "id": "DHA-FAR-03"},
+                    {"name": "Boalmari", "id": "DHA-FAR-04"},
+                    {"name": "Charbhadrasan", "id": "DHA-FAR-05"},
+                    {"name": "Madhukhali", "id": "DHA-FAR-06"},
+                    {"name": "Nagarkanda", "id": "DHA-FAR-07"},
+                    {"name": "Sadarpur", "id": "DHA-FAR-08"},
+                    {"name": "Saltha", "id": "DHA-FAR-09"}
+                ]
+            }
+        }
+    },
+    {
+        "Chattogram": {
+            "Chattogram": {
+                "id": "CHA-CHA",
+                "subdistrict": [
+                    {"name": "Anwara", "id": "CHA-CHA-01"},
+                    {"name": "Banshkhali", "id": "CHA-CHA-02"},
+                    {"name": "Boalkhali", "id": "CHA-CHA-03"},
+                    {"name": "Chandanaish", "id": "CHA-CHA-04"},
+                    {"name": "Fatikchhari", "id": "CHA-CHA-05"},
+                    {"name": "Hathazari", "id": "CHA-CHA-06"},
+                    {"name": "Lohagara", "id": "CHA-CHA-07"},
+                    {"name": "Mirsharai", "id": "CHA-CHA-08"},
+                    {"name": "Patiya", "id": "CHA-CHA-09"},
+                    {"name": "Rangunia", "id": "CHA-CHA-10"}
+                ]
+            },
+            "Cox's Bazar": {
+                "id": "CHA-COX",
+                "subdistrict": [
+                    {"name": "Chakaria", "id": "CHA-COX-01"},
+                    {"name": "Cox's Bazar Sadar", "id": "CHA-COX-02"},
+                    {"name": "Kutubdia", "id": "CHA-COX-03"},
+                    {"name": "Maheshkhali", "id": "CHA-COX-04"},
+                    {"name": "Ramu", "id": "CHA-COX-05"},
+                    {"name": "Teknaf", "id": "CHA-COX-06"},
+                    {"name": "Ukhiya", "id": "CHA-COX-07"},
+                    {"name": "Pekua", "id": "CHA-COX-08"}
+                ]
+            }
+        }
+    }
+
+
+    ]
+}
